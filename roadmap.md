@@ -1,0 +1,16 @@
+# Roadmap
+- [x] Match status media choices to the chat attachment style
+- [x] Restore a subtle gap between grouped chat bubbles
+- [x] Replace the static status text field with a dedicated pastel text editor
+- [x] Support 1,000-character statuses with adaptive text sizing
+- [x] Keep the connection plus control fixed above its drawer and rotate it to close
+- [x] Preserve the first upward drawer motion for short chat and call lists
+- [x] Let text statuses use the full available screen height
+- [x] Stabilize the message composer and require press-and-hold for voice notes
+- [x] Replace the status stack with a horizontal previous/current/next carousel
+- [x] Flatten status transitions and compact the status row
+- [x] Keep status chrome and progress hairline fixed while content transitions
+- [x] Make status changes nearly invisible and pause playback while held
+- [x] Replace the voice recording delete button with swipe-to-discard
+- [x] Simplify voice recording into one stable row with subtle swipe feedback
+- [x] Coordinate chat opening with top and bottom drawer motion and message loading states
