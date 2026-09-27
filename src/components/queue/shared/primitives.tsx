@@ -8,7 +8,7 @@ import {
 import type { ReactNode, RefObject } from "react";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
-import queueLogo from "@/assets/queue-logo.svg.asset.json";
+import queueLogo from "@/assets/queue-logo.svg";
 import type { MainTab } from "../app/types";
 export function TypingIndicator({ variant = "list" }: { variant?: "list" | "bubble" | "header" }) {
   const reduceMotion = useReducedMotion();
